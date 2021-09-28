@@ -36,9 +36,6 @@ seo:
     - name: 'og:title'
       value: Fresh Thoughts
       keyName: property
-    - name: 'og:description'
-      value: The preview of the Fresh theme
-      keyName: property
     - name: 'og:image'
       value: /images/Free Logo Maker  (2).png
       keyName: property
