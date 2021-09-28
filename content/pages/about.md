@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: About Fresh Thoughts
       keyName: property
     - name: 'og:image'
       value: /images/Free Logo Maker  (2).png
