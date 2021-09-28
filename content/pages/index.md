@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Welcome to Fresh Thoughts
     content: |
-      ## A blog that discusses the greater things in life.
+      #### A blog that discusses the greater things in life.
   - section_id: about
     type: section_content
     title: About
