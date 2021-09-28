@@ -11,9 +11,6 @@ seo:
     - name: 'og:title'
       value: About Me
       keyName: property
-    - name: 'og:description'
-      value: This is the about me page
-      keyName: property
     - name: 'og:image'
       value: /images/Free Logo Maker  (2).png
       keyName: property
