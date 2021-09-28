@@ -11,7 +11,7 @@ seo:
       value: Fresh Thoughts
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: /images/Free Logo Maker  (2).png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
