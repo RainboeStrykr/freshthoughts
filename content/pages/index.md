@@ -10,11 +10,10 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      This blog was created by Abhiraj Bhowmick and Arnesh Bhattacharya. We are
+      students at Don Bosco School, Siliguri and this is a place for us to
+      express our views and thoughts
     actions:
       - label: Contact Me
         url: /contact
