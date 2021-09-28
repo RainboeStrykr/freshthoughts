@@ -19,8 +19,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: About Fresh Thoughts
-    - name: 'twitter:description'
-      value: This is the about me page
     - name: 'twitter:image'
       value: /images/Free Logo Maker  (2).png
       relativeUrl: true
