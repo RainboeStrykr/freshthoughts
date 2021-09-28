@@ -28,7 +28,7 @@ sections:
         style: button
 seo:
   title: Fresh Thoughts
-  description: The preview of the Fresh theme
+  description: A blog that discusses the greater things in life.
   extra:
     - name: 'og:type'
       value: website
