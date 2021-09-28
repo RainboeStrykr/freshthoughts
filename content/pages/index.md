@@ -40,7 +40,7 @@ seo:
       value: The preview of the Fresh theme
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /images/Free Logo Maker  (2).png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
