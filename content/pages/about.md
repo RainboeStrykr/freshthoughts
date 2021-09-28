@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about me page
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: /images/Free Logo Maker  (2).png
       relativeUrl: true
 layout: page
 subtitle: Some lines about the creators.
