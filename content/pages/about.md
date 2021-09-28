@@ -28,6 +28,7 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
+subtitle: Some lines about the creators.
 ---
 Abhiraj Bhowmick and Arnesh Bhattacharya are students at Don Bosco School, Siliguri. They are born and brought up in the city of Siliguri located at the foothills of Darjeeling.
 
