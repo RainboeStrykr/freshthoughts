@@ -11,7 +11,7 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: 'This is the blog page '
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
