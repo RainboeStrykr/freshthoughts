@@ -47,7 +47,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Fresh theme
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/Free Logo Maker  (2).png
       relativeUrl: true
 layout: advanced
 ---
