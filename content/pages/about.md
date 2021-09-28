@@ -3,7 +3,7 @@ title: About Us
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
-  description: This is the about me page
+  description: About the authors and creators of Fresh Thoughts
   extra:
     - name: 'og:type'
       value: website
