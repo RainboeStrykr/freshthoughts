@@ -27,7 +27,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
+  title: Fresh Thoughts
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
