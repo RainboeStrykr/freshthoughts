@@ -76,6 +76,8 @@
             }
         ]
     },
-    "footer": {},
+    "footer": {
+        "content": "This website was designed by Visualway"
+    },
     "domain": "https://freshthoughts-2b10e.netlify.app"
 }
