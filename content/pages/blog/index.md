@@ -10,9 +10,6 @@ seo:
     - name: 'og:title'
       value: Fresh Thoughts
       keyName: property
-    - name: 'og:description'
-      value: 'This is the blog page '
-      keyName: property
     - name: 'og:image'
       value: images/1.jpg
       keyName: property
