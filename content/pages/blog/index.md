@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:title'
       value: Fresh Thoughts
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: /images/Free Logo Maker  (2).png
       relativeUrl: true
 layout: blog
 ---
