@@ -8,7 +8,7 @@ date: '2021-10-15'
 thumb_img_path: /images/img.jpg
 thumb_img_alt: Space Tourism
 content_img_path: /images/img.jpg
-content_img_alt: Icelandic horses
+content_img_alt: img
 seo:
   title: Fragments of Iceland
   description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
