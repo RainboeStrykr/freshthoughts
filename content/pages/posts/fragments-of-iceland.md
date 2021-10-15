@@ -6,7 +6,7 @@ excerpt: >-
   making it the most sparsely populated country in Europe.
 date: '2021-10-15'
 thumb_img_path: /images/img.jpg
-thumb_img_alt: Icelandic horses
+thumb_img_alt: Space Tourism
 content_img_path: images/7.jpg
 content_img_alt: Icelandic horses
 seo:
