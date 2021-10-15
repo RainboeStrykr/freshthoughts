@@ -36,6 +36,10 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
+excerpt: >-
+  There could not have been a better way to celebrate the 52nd anniversary of
+  the first Moon landing than the series of space flights this month heralding a
+  new era of space tourism. But there's a catch.
 ---
 
 Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
