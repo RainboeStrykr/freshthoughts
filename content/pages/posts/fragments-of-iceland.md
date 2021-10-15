@@ -7,7 +7,7 @@ content_img_path: /images/img.jpg
 content_img_alt: img
 seo:
   title: Space Tourism
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  description: 'Space tourism: Boon or bane?'
   extra:
     - name: 'og:type'
       value: article
