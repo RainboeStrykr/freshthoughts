@@ -6,7 +6,7 @@ thumb_img_alt: Space Tourism
 content_img_path: /images/img.jpg
 content_img_alt: img
 seo:
-  title: Fragments of Iceland
+  title: Space Tourism
   description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   extra:
     - name: 'og:type'
