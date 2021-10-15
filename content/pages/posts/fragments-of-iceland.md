@@ -15,11 +15,6 @@ seo:
     - name: 'og:title'
       value: Space Tourism
       keyName: property
-    - name: 'og:description'
-      value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
-      keyName: property
     - name: 'og:image'
       value: /images/img.jpg
       keyName: property
